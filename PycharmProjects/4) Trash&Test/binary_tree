@@ -1,0 +1,18 @@
+// Binary Tree
+digraph {
+	4
+	4 -> 5 [label=Left]
+	5
+	5 -> 7 [label=Left]
+	7
+	7 -> 0 [label=Left]
+	0
+	5 -> 7 [label=Right]
+	7
+	4 -> 6 [label=Right]
+	6
+	6 -> 8 [label=Left]
+	8
+	6 -> 9 [label=Right]
+	9
+}

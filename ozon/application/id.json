@@ -1,0 +1,241 @@
+{
+    "my_key": {
+        "result": {
+            "items": [
+                {
+                    "product_id": 1017773853,
+                    "offer_id": "00761588",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 36,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 34,
+                            "reserved": 2
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 36,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1018231433,
+                    "offer_id": "00761589",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 7,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 121,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 7,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1018237153,
+                    "offer_id": "00761590",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 8,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 0,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 8,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1018244560,
+                    "offer_id": "00761593",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 10,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 14,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 10,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1018244580,
+                    "offer_id": "00761592",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 8,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 9,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 8,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1018244603,
+                    "offer_id": "00761591",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 9,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 27,
+                            "reserved": 1
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 9,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1082060082,
+                    "offer_id": "00125",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 6,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 12,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 6,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1099434570,
+                    "offer_id": "00761266",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 10,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 0,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 10,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1100629005,
+                    "offer_id": "00761295",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 10,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 2,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 10,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1103358840,
+                    "offer_id": "00761259",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 0,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 0,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 0,
+                            "reserved": 0
+                        }
+                    ]
+                },
+                {
+                    "product_id": 1104862399,
+                    "offer_id": "00762173",
+                    "stocks": [
+                        {
+                            "type": "fbs",
+                            "present": 28,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "fbo",
+                            "present": 24,
+                            "reserved": 0
+                        },
+                        {
+                            "type": "crossborder",
+                            "present": 28,
+                            "reserved": 0
+                        }
+                    ]
+                }
+            ],
+            "total": 11,
+            "last_id": "WzExMDQ4NjIzOTksMTEwNDg2MjM5OV0="
+        }
+    }
+}

@@ -1,0 +1,8 @@
+print("введите число:", end=" ")
+a = int(input())
+print(f"{a}^{2} = {a**2}")
+input()
+name = input("Имя: ")
+age = int(int("Возраст: "))
+number = int(input("Число: "))
+print(name, age, number)

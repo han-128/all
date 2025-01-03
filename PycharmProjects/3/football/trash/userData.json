@@ -1,0 +1,2562 @@
+[
+  {
+    "UserId": 1,
+    "mass": 102,
+    "height": 1.73,
+    "BIM": 34.08,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 2,
+    "mass": 83,
+    "height": 1.78,
+    "BIM": 26.2,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 3,
+    "mass": 107,
+    "height": 1.65,
+    "BIM": 39.3,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 4,
+    "mass": 67,
+    "height": 1.9,
+    "BIM": 18.56,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 5,
+    "mass": 77,
+    "height": 1.99,
+    "BIM": 19.44,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 6,
+    "mass": 99,
+    "height": 1.79,
+    "BIM": 30.9,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 7,
+    "mass": 94,
+    "height": 1.6,
+    "BIM": 36.72,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 8,
+    "mass": 52,
+    "height": 1.63,
+    "BIM": 19.57,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 9,
+    "mass": 88,
+    "height": 1.8,
+    "BIM": 27.16,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 10,
+    "mass": 91,
+    "height": 1.88,
+    "BIM": 25.75,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 11,
+    "mass": 100,
+    "height": 1.66,
+    "BIM": 36.29,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 12,
+    "mass": 62,
+    "height": 1.53,
+    "BIM": 26.49,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 13,
+    "mass": 100,
+    "height": 1.63,
+    "BIM": 37.64,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 14,
+    "mass": 101,
+    "height": 2.08,
+    "BIM": 23.35,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 15,
+    "mass": 81,
+    "height": 1.54,
+    "BIM": 34.15,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 16,
+    "mass": 66,
+    "height": 1.94,
+    "BIM": 17.54,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 17,
+    "mass": 60,
+    "height": 2.01,
+    "BIM": 14.85,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 18,
+    "mass": 107,
+    "height": 1.68,
+    "BIM": 37.91,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 19,
+    "mass": 54,
+    "height": 1.71,
+    "BIM": 18.47,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 20,
+    "mass": 85,
+    "height": 2.1,
+    "BIM": 19.27,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 21,
+    "mass": 96,
+    "height": 1.93,
+    "BIM": 25.77,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 22,
+    "mass": 50,
+    "height": 1.94,
+    "BIM": 13.29,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 23,
+    "mass": 53,
+    "height": 1.92,
+    "BIM": 14.38,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 24,
+    "mass": 59,
+    "height": 1.87,
+    "BIM": 16.87,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Moderate thinness"
+    }
+  },
+  {
+    "UserId": 25,
+    "mass": 84,
+    "height": 1.64,
+    "BIM": 31.23,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 26,
+    "mass": 78,
+    "height": 1.58,
+    "BIM": 31.24,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 27,
+    "mass": 87,
+    "height": 1.67,
+    "BIM": 31.2,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 28,
+    "mass": 90,
+    "height": 1.51,
+    "BIM": 39.47,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 29,
+    "mass": 59,
+    "height": 1.64,
+    "BIM": 21.94,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 30,
+    "mass": 50,
+    "height": 1.97,
+    "BIM": 12.88,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 31,
+    "mass": 92,
+    "height": 1.71,
+    "BIM": 31.46,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 32,
+    "mass": 104,
+    "height": 1.52,
+    "BIM": 45.01,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 33,
+    "mass": 73,
+    "height": 1.83,
+    "BIM": 21.8,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 34,
+    "mass": 65,
+    "height": 1.81,
+    "BIM": 19.84,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 35,
+    "mass": 75,
+    "height": 1.99,
+    "BIM": 18.94,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 36,
+    "mass": 80,
+    "height": 2.08,
+    "BIM": 18.49,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 37,
+    "mass": 79,
+    "height": 1.52,
+    "BIM": 34.19,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 38,
+    "mass": 76,
+    "height": 2.0,
+    "BIM": 19.0,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 39,
+    "mass": 104,
+    "height": 1.76,
+    "BIM": 33.57,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 40,
+    "mass": 79,
+    "height": 1.53,
+    "BIM": 33.75,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 41,
+    "mass": 76,
+    "height": 2.06,
+    "BIM": 17.91,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 42,
+    "mass": 78,
+    "height": 1.86,
+    "BIM": 22.55,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 43,
+    "mass": 95,
+    "height": 2.0,
+    "BIM": 23.75,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 44,
+    "mass": 84,
+    "height": 1.55,
+    "BIM": 34.96,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 45,
+    "mass": 60,
+    "height": 2.09,
+    "BIM": 13.74,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 46,
+    "mass": 56,
+    "height": 1.67,
+    "BIM": 20.08,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 47,
+    "mass": 51,
+    "height": 1.63,
+    "BIM": 19.2,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 48,
+    "mass": 69,
+    "height": 1.78,
+    "BIM": 21.78,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 49,
+    "mass": 106,
+    "height": 1.76,
+    "BIM": 34.22,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 50,
+    "mass": 92,
+    "height": 1.6,
+    "BIM": 35.94,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 51,
+    "mass": 67,
+    "height": 1.98,
+    "BIM": 17.09,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 52,
+    "mass": 80,
+    "height": 1.91,
+    "BIM": 21.93,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 53,
+    "mass": 62,
+    "height": 1.95,
+    "BIM": 16.31,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Moderate thinness"
+    }
+  },
+  {
+    "UserId": 54,
+    "mass": 55,
+    "height": 1.6,
+    "BIM": 21.48,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 55,
+    "mass": 64,
+    "height": 1.83,
+    "BIM": 19.11,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 56,
+    "mass": 79,
+    "height": 1.74,
+    "BIM": 26.09,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 57,
+    "mass": 71,
+    "height": 1.92,
+    "BIM": 19.26,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 58,
+    "mass": 56,
+    "height": 1.87,
+    "BIM": 16.01,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Moderate thinness"
+    }
+  },
+  {
+    "UserId": 59,
+    "mass": 71,
+    "height": 1.67,
+    "BIM": 25.46,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 60,
+    "mass": 100,
+    "height": 2.09,
+    "BIM": 22.89,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 61,
+    "mass": 107,
+    "height": 2.0,
+    "BIM": 26.75,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 62,
+    "mass": 108,
+    "height": 1.57,
+    "BIM": 43.82,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 63,
+    "mass": 53,
+    "height": 2.06,
+    "BIM": 12.49,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 64,
+    "mass": 56,
+    "height": 1.96,
+    "BIM": 14.58,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 65,
+    "mass": 103,
+    "height": 1.92,
+    "BIM": 27.94,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 66,
+    "mass": 73,
+    "height": 1.68,
+    "BIM": 25.86,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 67,
+    "mass": 88,
+    "height": 1.73,
+    "BIM": 29.4,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 68,
+    "mass": 108,
+    "height": 1.83,
+    "BIM": 32.25,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 69,
+    "mass": 83,
+    "height": 1.92,
+    "BIM": 22.52,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 70,
+    "mass": 50,
+    "height": 2.02,
+    "BIM": 12.25,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 71,
+    "mass": 94,
+    "height": 1.54,
+    "BIM": 39.64,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 72,
+    "mass": 104,
+    "height": 1.97,
+    "BIM": 26.8,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 73,
+    "mass": 108,
+    "height": 1.63,
+    "BIM": 40.65,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 74,
+    "mass": 73,
+    "height": 1.54,
+    "BIM": 30.78,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 75,
+    "mass": 83,
+    "height": 2.04,
+    "BIM": 19.94,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 76,
+    "mass": 56,
+    "height": 1.91,
+    "BIM": 15.35,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 77,
+    "mass": 107,
+    "height": 1.87,
+    "BIM": 30.6,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 78,
+    "mass": 107,
+    "height": 1.81,
+    "BIM": 32.66,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 79,
+    "mass": 91,
+    "height": 1.54,
+    "BIM": 38.37,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 80,
+    "mass": 74,
+    "height": 2.04,
+    "BIM": 17.78,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 81,
+    "mass": 88,
+    "height": 2.04,
+    "BIM": 21.15,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 82,
+    "mass": 90,
+    "height": 1.91,
+    "BIM": 24.67,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 83,
+    "mass": 103,
+    "height": 1.53,
+    "BIM": 44.0,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 84,
+    "mass": 77,
+    "height": 1.58,
+    "BIM": 30.84,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 85,
+    "mass": 57,
+    "height": 1.95,
+    "BIM": 14.99,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 86,
+    "mass": 79,
+    "height": 1.94,
+    "BIM": 20.99,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 87,
+    "mass": 98,
+    "height": 1.89,
+    "BIM": 27.43,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 88,
+    "mass": 102,
+    "height": 1.71,
+    "BIM": 34.88,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 89,
+    "mass": 64,
+    "height": 1.61,
+    "BIM": 24.69,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 90,
+    "mass": 59,
+    "height": 2.05,
+    "BIM": 14.04,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 91,
+    "mass": 54,
+    "height": 1.72,
+    "BIM": 18.25,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 92,
+    "mass": 54,
+    "height": 2.04,
+    "BIM": 12.98,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 93,
+    "mass": 54,
+    "height": 1.93,
+    "BIM": 14.5,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 94,
+    "mass": 68,
+    "height": 1.5,
+    "BIM": 30.22,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 95,
+    "mass": 99,
+    "height": 1.51,
+    "BIM": 43.42,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 96,
+    "mass": 106,
+    "height": 1.56,
+    "BIM": 43.56,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 97,
+    "mass": 62,
+    "height": 1.74,
+    "BIM": 20.48,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 98,
+    "mass": 58,
+    "height": 1.77,
+    "BIM": 18.51,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 99,
+    "mass": 54,
+    "height": 1.97,
+    "BIM": 13.91,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 100,
+    "mass": 92,
+    "height": 1.54,
+    "BIM": 38.79,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 101,
+    "mass": 102,
+    "height": 1.73,
+    "BIM": 34.08,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 102,
+    "mass": 51,
+    "height": 1.58,
+    "BIM": 20.43,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 103,
+    "mass": 104,
+    "height": 1.51,
+    "BIM": 45.61,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 104,
+    "mass": 66,
+    "height": 1.61,
+    "BIM": 25.46,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 105,
+    "mass": 68,
+    "height": 2.1,
+    "BIM": 15.42,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 106,
+    "mass": 91,
+    "height": 1.82,
+    "BIM": 27.47,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 107,
+    "mass": 81,
+    "height": 1.69,
+    "BIM": 28.36,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 108,
+    "mass": 100,
+    "height": 1.77,
+    "BIM": 31.92,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 109,
+    "mass": 82,
+    "height": 1.92,
+    "BIM": 22.24,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 110,
+    "mass": 55,
+    "height": 1.6,
+    "BIM": 21.48,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 111,
+    "mass": 91,
+    "height": 1.62,
+    "BIM": 34.67,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 112,
+    "mass": 99,
+    "height": 1.56,
+    "BIM": 40.68,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 113,
+    "mass": 95,
+    "height": 1.96,
+    "BIM": 24.73,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 114,
+    "mass": 64,
+    "height": 2.0,
+    "BIM": 16.0,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Moderate thinness"
+    }
+  },
+  {
+    "UserId": 115,
+    "mass": 66,
+    "height": 1.78,
+    "BIM": 20.83,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 116,
+    "mass": 64,
+    "height": 1.87,
+    "BIM": 18.3,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 117,
+    "mass": 65,
+    "height": 1.73,
+    "BIM": 21.72,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 118,
+    "mass": 55,
+    "height": 1.55,
+    "BIM": 22.89,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 119,
+    "mass": 93,
+    "height": 1.92,
+    "BIM": 25.23,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 120,
+    "mass": 50,
+    "height": 2.01,
+    "BIM": 12.38,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 121,
+    "mass": 78,
+    "height": 1.53,
+    "BIM": 33.32,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 122,
+    "mass": 73,
+    "height": 1.77,
+    "BIM": 23.3,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 123,
+    "mass": 82,
+    "height": 1.82,
+    "BIM": 24.76,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 124,
+    "mass": 89,
+    "height": 1.98,
+    "BIM": 22.7,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 125,
+    "mass": 65,
+    "height": 2.0,
+    "BIM": 16.25,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Moderate thinness"
+    }
+  },
+  {
+    "UserId": 126,
+    "mass": 91,
+    "height": 1.63,
+    "BIM": 34.25,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 127,
+    "mass": 78,
+    "height": 1.74,
+    "BIM": 25.76,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 128,
+    "mass": 102,
+    "height": 1.62,
+    "BIM": 38.87,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 129,
+    "mass": 110,
+    "height": 1.92,
+    "BIM": 29.84,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 130,
+    "mass": 91,
+    "height": 1.85,
+    "BIM": 26.59,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 131,
+    "mass": 90,
+    "height": 1.55,
+    "BIM": 37.46,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 132,
+    "mass": 63,
+    "height": 1.64,
+    "BIM": 23.42,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 133,
+    "mass": 58,
+    "height": 1.61,
+    "BIM": 22.38,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 134,
+    "mass": 92,
+    "height": 1.98,
+    "BIM": 23.47,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 135,
+    "mass": 91,
+    "height": 1.67,
+    "BIM": 32.63,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 136,
+    "mass": 94,
+    "height": 1.56,
+    "BIM": 38.63,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 137,
+    "mass": 82,
+    "height": 1.6,
+    "BIM": 32.03,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 138,
+    "mass": 104,
+    "height": 1.83,
+    "BIM": 31.05,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 139,
+    "mass": 54,
+    "height": 1.97,
+    "BIM": 13.91,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 140,
+    "mass": 91,
+    "height": 1.65,
+    "BIM": 33.43,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 141,
+    "mass": 95,
+    "height": 1.93,
+    "BIM": 25.5,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 142,
+    "mass": 66,
+    "height": 2.06,
+    "BIM": 15.55,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 143,
+    "mass": 50,
+    "height": 1.8,
+    "BIM": 15.43,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 144,
+    "mass": 71,
+    "height": 2.04,
+    "BIM": 17.06,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 145,
+    "mass": 59,
+    "height": 2.1,
+    "BIM": 13.38,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 146,
+    "mass": 93,
+    "height": 2.08,
+    "BIM": 21.5,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 147,
+    "mass": 88,
+    "height": 1.71,
+    "BIM": 30.09,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 148,
+    "mass": 109,
+    "height": 1.91,
+    "BIM": 29.88,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 149,
+    "mass": 101,
+    "height": 1.89,
+    "BIM": 28.27,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 150,
+    "mass": 95,
+    "height": 1.82,
+    "BIM": 28.68,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 151,
+    "mass": 107,
+    "height": 1.99,
+    "BIM": 27.02,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 152,
+    "mass": 92,
+    "height": 1.51,
+    "BIM": 40.35,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 153,
+    "mass": 73,
+    "height": 1.69,
+    "BIM": 25.56,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 154,
+    "mass": 91,
+    "height": 1.69,
+    "BIM": 31.86,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 155,
+    "mass": 55,
+    "height": 1.87,
+    "BIM": 15.73,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 156,
+    "mass": 64,
+    "height": 1.77,
+    "BIM": 20.43,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 157,
+    "mass": 78,
+    "height": 2.08,
+    "BIM": 18.03,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 158,
+    "mass": 110,
+    "height": 1.84,
+    "BIM": 32.49,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 159,
+    "mass": 105,
+    "height": 1.59,
+    "BIM": 41.53,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 160,
+    "mass": 51,
+    "height": 1.6,
+    "BIM": 19.92,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 161,
+    "mass": 90,
+    "height": 1.94,
+    "BIM": 23.91,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 162,
+    "mass": 92,
+    "height": 1.75,
+    "BIM": 30.04,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 163,
+    "mass": 55,
+    "height": 1.84,
+    "BIM": 16.25,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Moderate thinness"
+    }
+  },
+  {
+    "UserId": 164,
+    "mass": 105,
+    "height": 1.75,
+    "BIM": 34.29,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 165,
+    "mass": 56,
+    "height": 1.55,
+    "BIM": 23.31,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 166,
+    "mass": 74,
+    "height": 1.99,
+    "BIM": 18.69,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 167,
+    "mass": 100,
+    "height": 1.74,
+    "BIM": 33.03,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 168,
+    "mass": 73,
+    "height": 1.55,
+    "BIM": 30.39,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 169,
+    "mass": 96,
+    "height": 1.57,
+    "BIM": 38.95,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 170,
+    "mass": 106,
+    "height": 1.68,
+    "BIM": 37.56,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 171,
+    "mass": 51,
+    "height": 1.61,
+    "BIM": 19.68,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 172,
+    "mass": 55,
+    "height": 1.71,
+    "BIM": 18.81,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 173,
+    "mass": 105,
+    "height": 1.69,
+    "BIM": 36.76,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 174,
+    "mass": 55,
+    "height": 1.89,
+    "BIM": 15.4,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 175,
+    "mass": 90,
+    "height": 2.05,
+    "BIM": 21.42,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 176,
+    "mass": 51,
+    "height": 1.59,
+    "BIM": 20.17,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 177,
+    "mass": 73,
+    "height": 1.53,
+    "BIM": 31.18,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 178,
+    "mass": 51,
+    "height": 1.62,
+    "BIM": 19.43,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 179,
+    "mass": 94,
+    "height": 1.61,
+    "BIM": 36.26,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 180,
+    "mass": 97,
+    "height": 1.93,
+    "BIM": 26.04,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 181,
+    "mass": 56,
+    "height": 1.67,
+    "BIM": 20.08,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 182,
+    "mass": 89,
+    "height": 1.8,
+    "BIM": 27.47,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 183,
+    "mass": 65,
+    "height": 1.88,
+    "BIM": 18.39,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 184,
+    "mass": 91,
+    "height": 2.1,
+    "BIM": 20.63,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 185,
+    "mass": 60,
+    "height": 1.72,
+    "BIM": 20.28,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 186,
+    "mass": 50,
+    "height": 1.68,
+    "BIM": 17.72,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 187,
+    "mass": 92,
+    "height": 1.71,
+    "BIM": 31.46,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 188,
+    "mass": 52,
+    "height": 1.94,
+    "BIM": 13.82,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 189,
+    "mass": 55,
+    "height": 2.06,
+    "BIM": 12.96,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 190,
+    "mass": 78,
+    "height": 1.64,
+    "BIM": 29.0,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 191,
+    "mass": 52,
+    "height": 2.0,
+    "BIM": 13.0,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 192,
+    "mass": 70,
+    "height": 1.94,
+    "BIM": 18.6,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 193,
+    "mass": 74,
+    "height": 1.69,
+    "BIM": 25.91,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 194,
+    "mass": 84,
+    "height": 1.55,
+    "BIM": 34.96,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 195,
+    "mass": 100,
+    "height": 1.76,
+    "BIM": 32.28,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 196,
+    "mass": 70,
+    "height": 1.97,
+    "BIM": 18.04,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 197,
+    "mass": 83,
+    "height": 1.6,
+    "BIM": 32.42,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 198,
+    "mass": 105,
+    "height": 1.84,
+    "BIM": 31.01,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 199,
+    "mass": 61,
+    "height": 2.07,
+    "BIM": 14.24,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 200,
+    "mass": 87,
+    "height": 1.53,
+    "BIM": 37.17,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 201,
+    "mass": 60,
+    "height": 1.64,
+    "BIM": 22.31,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 202,
+    "mass": 91,
+    "height": 1.73,
+    "BIM": 30.41,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 203,
+    "mass": 67,
+    "height": 1.84,
+    "BIM": 19.79,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 204,
+    "mass": 78,
+    "height": 1.51,
+    "BIM": 34.21,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 205,
+    "mass": 78,
+    "height": 1.97,
+    "BIM": 20.1,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 206,
+    "mass": 103,
+    "height": 1.5,
+    "BIM": 45.78,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 207,
+    "mass": 54,
+    "height": 2.02,
+    "BIM": 13.23,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 208,
+    "mass": 66,
+    "height": 2.05,
+    "BIM": 15.7,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 209,
+    "mass": 56,
+    "height": 1.57,
+    "BIM": 22.72,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 210,
+    "mass": 50,
+    "height": 1.9,
+    "BIM": 13.85,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 211,
+    "mass": 93,
+    "height": 1.53,
+    "BIM": 39.73,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 212,
+    "mass": 58,
+    "height": 1.55,
+    "BIM": 24.14,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 213,
+    "mass": 60,
+    "height": 1.65,
+    "BIM": 22.04,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 214,
+    "mass": 110,
+    "height": 1.7,
+    "BIM": 38.06,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 215,
+    "mass": 88,
+    "height": 1.87,
+    "BIM": 25.17,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 216,
+    "mass": 96,
+    "height": 1.6,
+    "BIM": 37.5,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 217,
+    "mass": 96,
+    "height": 1.58,
+    "BIM": 38.46,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 218,
+    "mass": 55,
+    "height": 1.8,
+    "BIM": 16.98,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 219,
+    "mass": 55,
+    "height": 1.55,
+    "BIM": 22.89,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 220,
+    "mass": 58,
+    "height": 1.79,
+    "BIM": 18.1,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 221,
+    "mass": 67,
+    "height": 2.01,
+    "BIM": 16.58,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Moderate thinness"
+    }
+  },
+  {
+    "UserId": 222,
+    "mass": 98,
+    "height": 1.67,
+    "BIM": 35.14,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 223,
+    "mass": 105,
+    "height": 1.6,
+    "BIM": 41.02,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 224,
+    "mass": 99,
+    "height": 1.73,
+    "BIM": 33.08,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 225,
+    "mass": 101,
+    "height": 1.54,
+    "BIM": 42.59,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 226,
+    "mass": 64,
+    "height": 1.86,
+    "BIM": 18.5,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 227,
+    "mass": 54,
+    "height": 2.1,
+    "BIM": 12.24,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 228,
+    "mass": 96,
+    "height": 1.51,
+    "BIM": 42.1,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 229,
+    "mass": 85,
+    "height": 1.52,
+    "BIM": 36.79,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 230,
+    "mass": 104,
+    "height": 1.78,
+    "BIM": 32.82,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 231,
+    "mass": 108,
+    "height": 1.88,
+    "BIM": 30.56,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 232,
+    "mass": 100,
+    "height": 1.8,
+    "BIM": 30.86,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 233,
+    "mass": 104,
+    "height": 1.62,
+    "BIM": 39.63,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 234,
+    "mass": 72,
+    "height": 1.6,
+    "BIM": 28.12,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 235,
+    "mass": 85,
+    "height": 1.96,
+    "BIM": 22.13,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 236,
+    "mass": 95,
+    "height": 2.05,
+    "BIM": 22.61,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 237,
+    "mass": 72,
+    "height": 2.05,
+    "BIM": 17.13,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 238,
+    "mass": 53,
+    "height": 2.07,
+    "BIM": 12.37,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 239,
+    "mass": 87,
+    "height": 2.02,
+    "BIM": 21.32,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 240,
+    "mass": 104,
+    "height": 1.64,
+    "BIM": 38.67,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 241,
+    "mass": 73,
+    "height": 1.84,
+    "BIM": 21.56,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 242,
+    "mass": 102,
+    "height": 1.54,
+    "BIM": 43.01,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 243,
+    "mass": 80,
+    "height": 1.92,
+    "BIM": 21.7,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 244,
+    "mass": 70,
+    "height": 2.0,
+    "BIM": 17.5,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 245,
+    "mass": 82,
+    "height": 2.02,
+    "BIM": 20.1,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 246,
+    "mass": 64,
+    "height": 1.88,
+    "BIM": 18.11,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Mild thinness"
+    }
+  },
+  {
+    "UserId": 247,
+    "mass": 102,
+    "height": 1.73,
+    "BIM": 34.08,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class I"
+    }
+  },
+  {
+    "UserId": 248,
+    "mass": 51,
+    "height": 1.91,
+    "BIM": 13.98,
+    "Categories": {
+      "Category": "Underweight",
+      "Class": "Severe thinness"
+    }
+  },
+  {
+    "UserId": 249,
+    "mass": 95,
+    "height": 1.89,
+    "BIM": 26.6,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 250,
+    "mass": 95,
+    "height": 1.85,
+    "BIM": 27.76,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 251,
+    "mass": 95,
+    "height": 1.95,
+    "BIM": 24.98,
+    "Categories": {
+      "Category": "Overweight",
+      "Class": "Pre-obese"
+    }
+  },
+  {
+    "UserId": 252,
+    "mass": 103,
+    "height": 2.04,
+    "BIM": 24.75,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 253,
+    "mass": 56,
+    "height": 1.67,
+    "BIM": 20.08,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  },
+  {
+    "UserId": 254,
+    "mass": 95,
+    "height": 1.53,
+    "BIM": 40.58,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class III"
+    }
+  },
+  {
+    "UserId": 255,
+    "mass": 100,
+    "height": 1.68,
+    "BIM": 35.43,
+    "Categories": {
+      "Category": "Obese",
+      "Class": "Class II"
+    }
+  },
+  {
+    "UserId": 256,
+    "mass": 76,
+    "height": 1.99,
+    "BIM": 19.19,
+    "Categories": {
+      "Category": "Normal range",
+      "Class": "Normal"
+    }
+  }
+]

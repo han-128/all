@@ -1,0 +1,114 @@
+[
+  {
+    "num": 1,
+    "match": 11,
+    "goal": 18,
+    "assist": 12,
+    "yellow_card": 4,
+    "red_card": 6,
+    "score": 30,
+    "bio": {
+      "name": "Artem",
+      "surname": "Karpekin",
+      "birthdate": "09.05.1985"
+    }
+  },
+  {
+    "num": 7,
+    "match": 9,
+    "goal": 15,
+    "assist": 10,
+    "yellow_card": 6,
+    "red_card": 0,
+    "score": 25,
+    "bio": {
+      "name": "Daniil",
+      "surname": "Chuvasov",
+      "birthdate": "22.08.2004"
+    }
+  },
+  {
+    "num": 3,
+    "match": 10,
+    "goal": 15,
+    "assist": 9,
+    "yellow_card": 4,
+    "red_card": 0,
+    "score": 24,
+    "bio": {
+      "name": "Dmitriy",
+      "surname": "Molchanov",
+      "birthdate": "19.11.1980"
+    }
+  },
+  {
+    "num": 5,
+    "match": 12,
+    "goal": 16,
+    "assist": 8,
+    "yellow_card": 6,
+    "red_card": 5,
+    "score": 24,
+    "bio": {
+      "name": "Denis",
+      "surname": "Makeev",
+      "birthdate": "26.06.1990"
+    }
+  },
+  {
+    "num": 2,
+    "match": 15,
+    "goal": 11,
+    "assist": 11,
+    "yellow_card": 9,
+    "red_card": 1,
+    "score": 22,
+    "bio": {
+      "name": "Ruslan",
+      "surname": "Suanov",
+      "birthdate": "07.12.1994"
+    }
+  },
+  {
+    "num": 4,
+    "match": 13,
+    "goal": 14,
+    "assist": 8,
+    "yellow_card": 5,
+    "red_card": 1,
+    "score": 22,
+    "bio": {
+      "name": "Oleg",
+      "surname": "Pugachev",
+      "birthdate": "07.06.2001"
+    }
+  },
+  {
+    "num": 6,
+    "match": 12,
+    "goal": 10,
+    "assist": 7,
+    "yellow_card": 2,
+    "red_card": 1,
+    "score": 17,
+    "bio": {
+      "name": "Nikolay",
+      "surname": "Ivannikov",
+      "birthdate": "06.12.1996"
+    }
+  },
+  {
+    "num": 8,
+    "match": 15,
+    "goal": 10,
+    "assist": 6,
+    "yellow_card": 5,
+    "red_card": 1,
+    "score": 16,
+    "bio": {
+      "name": "Sergey",
+      "surname": "Evtushenko",
+      "birthdate": "08.05.1983"
+    }
+  }
+]

@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1187</width>
+    <height>786</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QWidget" name="gridLayoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>0</y>
+      <width>1171</width>
+      <height>681</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="6" column="0">
+      <widget class="QRadioButton" name="radioButton_27">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 0);</string>
+       </property>
+       <property name="text">
+        <string>КРАСНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="6" column="3">
+      <widget class="QRadioButton" name="radioButton_25">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 0);</string>
+       </property>
+       <property name="text">
+        <string>КРАСНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="5" column="4">
+      <widget class="QRadioButton" name="radioButton_24">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(150, 75, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>КОРИЧНЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QRadioButton" name="radioButton_16">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ЧЁРНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="6" column="4">
+      <widget class="QRadioButton" name="radioButton_26">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 0);</string>
+       </property>
+       <property name="text">
+        <string>КРАСНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="4" column="3">
+      <widget class="QRadioButton" name="radioButton_20">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ЧЁРНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="4" column="2">
+      <widget class="QRadioButton" name="radioButton_19">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ЧЁРНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="3" column="4">
+      <widget class="QRadioButton" name="radioButton_18">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(203, 169, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЗОЛОТИСТЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="4">
+      <widget class="QRadioButton" name="radioButton_17">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(192, 192, 192);</string>
+       </property>
+       <property name="text">
+        <string>СЕРЕБРИСТЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="12" column="3">
+      <widget class="QRadioButton" name="radioButton_45">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(149, 149, 149);</string>
+       </property>
+       <property name="text">
+        <string>СЕРЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="12" column="4">
+      <widget class="QRadioButton" name="radioButton_46">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(149, 149, 149);</string>
+       </property>
+       <property name="text">
+        <string>СЕРЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="5" column="3">
+      <widget class="QRadioButton" name="radioButton_23">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(150, 75, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>КОРИЧНЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="3" column="3">
+      <widget class="QRadioButton" name="radioButton_4">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(203, 169, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЗОЛОТИСТЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="5" column="2">
+      <widget class="QRadioButton" name="radioButton_21">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(150, 75, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>КОРИЧНЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="3">
+      <widget class="QRadioButton" name="radioButton_3">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(192, 192, 192);</string>
+       </property>
+       <property name="text">
+        <string>СЕРЕБРИСТЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="10" column="3">
+      <widget class="QRadioButton" name="radioButton_38">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ГОЛУБОЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="12" column="2">
+      <widget class="QRadioButton" name="radioButton_44">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(149, 149, 149);</string>
+       </property>
+       <property name="text">
+        <string>СЕРЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="11" column="1">
+      <widget class="QRadioButton" name="radioButton_7">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 0, 255);</string>
+       </property>
+       <property name="text">
+        <string>ФИОЛЕТОВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="12" column="1">
+      <widget class="QRadioButton" name="radioButton_8">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(149, 149, 149);</string>
+       </property>
+       <property name="text">
+        <string>СЕРЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="8" column="1">
+      <widget class="QRadioButton" name="radioButton_10">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЖЁЛТЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="4" column="1">
+      <widget class="QRadioButton" name="radioButton_11">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ЧЁРНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="7" column="1">
+      <widget class="QRadioButton" name="radioButton_12">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 170, 0);</string>
+       </property>
+       <property name="text">
+        <string>ОРАНЖЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="9" column="1">
+      <widget class="QRadioButton" name="radioButton_6">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЗЕЛЁНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="10" column="1">
+      <widget class="QRadioButton" name="radioButton_9">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ГОЛУБОЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="5" column="1">
+      <widget class="QRadioButton" name="radioButton_14">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(150, 75, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>КОРИЧНЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="6" column="1">
+      <widget class="QRadioButton" name="radioButton_13">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 0);</string>
+       </property>
+       <property name="text">
+        <string>КРАСНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_2</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="5" column="0">
+      <widget class="QRadioButton" name="radioButton_15">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(150, 75, 0);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>КОРИЧНЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="10" column="4">
+      <widget class="QRadioButton" name="radioButton_39">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ГОЛУБОЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="11" column="2">
+      <widget class="QRadioButton" name="radioButton_40">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 0, 255);</string>
+       </property>
+       <property name="text">
+        <string>ФИОЛЕТОВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="10" column="0">
+      <widget class="QRadioButton" name="radioButton_37">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ГОЛУБОЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="13" column="2">
+      <widget class="QRadioButton" name="radioButton_5">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>БЕЛЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="11" column="3">
+      <widget class="QRadioButton" name="radioButton_41">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 0, 255);</string>
+       </property>
+       <property name="text">
+        <string>ФИОЛЕТОВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="6" column="2">
+      <widget class="QRadioButton" name="radioButton_28">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 0, 0);</string>
+       </property>
+       <property name="text">
+        <string>КРАСНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="13" column="0">
+      <widget class="QRadioButton" name="radioButton">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>БЕЛЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="12" column="0">
+      <widget class="QRadioButton" name="radioButton_47">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(149, 149, 149);</string>
+       </property>
+       <property name="text">
+        <string>СЕРЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="13" column="3">
+      <widget class="QRadioButton" name="radioButton_48">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>БЕЛЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="7" column="2">
+      <widget class="QRadioButton" name="radioButton_29">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 174, 12);</string>
+       </property>
+       <property name="text">
+        <string>ОРАНЖЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="7" column="0">
+      <widget class="QRadioButton" name="radioButton_30">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 174, 12);</string>
+       </property>
+       <property name="text">
+        <string>ОРАНЖЕВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="8" column="2">
+      <widget class="QRadioButton" name="radioButton_31">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЖЁЛТЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="11" column="0">
+      <widget class="QRadioButton" name="radioButton_43">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 0, 255);</string>
+       </property>
+       <property name="text">
+        <string>ФИОЛЕТОВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="11" column="4">
+      <widget class="QRadioButton" name="radioButton_42">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 0, 255);</string>
+       </property>
+       <property name="text">
+        <string>ФИОЛЕТОВЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="8" column="0">
+      <widget class="QRadioButton" name="radioButton_32">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЖЁЛТЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="9" column="2">
+      <widget class="QRadioButton" name="radioButton_22">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЗЕЛЁНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="9" column="3">
+      <widget class="QRadioButton" name="radioButton_34">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЗЕЛЁНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_4</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="9" column="0">
+      <widget class="QRadioButton" name="radioButton_33">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЗЕЛЁНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="9" column="4">
+      <widget class="QRadioButton" name="radioButton_35">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 0);</string>
+       </property>
+       <property name="text">
+        <string>ЗЕЛЁНЫЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_5</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="13" column="1">
+      <widget class="QRadioButton" name="radioButton_2">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>БЕЛЫЙ</string>
+       </property>
+      </widget>
+     </item>
+     <item row="10" column="2">
+      <widget class="QRadioButton" name="radioButton_36">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(0, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>ГОЛУБОЙ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_3</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QRadioButton" name="radioButton_49">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 0, 127);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>4 ЦВЕТОВЫХ ПОЛОСКИ</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_6</string>
+       </attribute>
+      </widget>
+     </item>
+     <item row="1" column="1">
+      <widget class="QRadioButton" name="radioButton_50">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="styleSheet">
+        <string notr="true">background-color: rgb(170, 0, 127);
+color: rgb(255, 255, 255);</string>
+       </property>
+       <property name="text">
+        <string>5 ЦВЕТОВЫХ ПОЛОСОК</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup_6</string>
+       </attribute>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+   <widget class="QTextEdit" name="textEdit">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>680</y>
+      <width>481</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1187</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+ <buttongroups>
+  <buttongroup name="buttonGroup_2"/>
+  <buttongroup name="buttonGroup_5"/>
+  <buttongroup name="buttonGroup_6"/>
+  <buttongroup name="buttonGroup_3"/>
+  <buttongroup name="buttonGroup_4"/>
+  <buttongroup name="buttonGroup"/>
+ </buttongroups>
+</ui>

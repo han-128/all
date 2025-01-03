@@ -1,0 +1,163 @@
+/* Основные стили */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    position: relative;
+    background: url('https://vapebox.ru/upload/iblock/31a/31a8232bc93e669eace2bfa7d46ebbcb.jpg') no-repeat center center fixed;
+    background-size: cover;
+    scroll-behavior: smooth;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    /* Минимальная высота страницы равна высоте окна */
+}
+
+body::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: inherit;
+    filter: blur(5px);
+    z-index: -1;
+}
+
+/* Заголовок */
+header {
+    background: rgba(76, 175, 80, 0.8);
+    color: white;
+    padding: 1.5rem 0;
+    text-align: center;
+    position: relative;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin: 0;
+    animation: fadeInDown 1s ease-in-out;
+}
+
+header p {
+    font-size: 1rem;
+    margin: 0.5rem 0 0;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+/* Основной контейнер */
+.main-container {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+    margin-top: 15px;
+    flex: 1;
+    /* Растягиваем контейнер, чтобы футер был внизу */
+}
+
+/* Секции */
+.section {
+    background: rgba(255, 255, 255, 0.9);
+    margin: 15px 0;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.section-header {
+    padding: 15px;
+}
+
+.section-header h2 {
+    font-size: 1.75rem;
+    color: #4CAF50;
+    margin: 0;
+}
+
+.section-content {
+    padding: 0 15px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.5s ease, padding 0.5s ease;
+}
+
+.section-content p,
+.section-content ul {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin: 0 0 15px;
+}
+
+.section-content ul {
+    list-style-type: square;
+    padding-left: 15px;
+}
+
+.section-content ul li {
+    margin-bottom: 0.25rem;
+}
+
+/* Раскрытая секция */
+.section.active .section-content {
+    max-height: 500px;
+    /* Максимальная высота контента */
+    padding: 15px;
+}
+
+/* Футер */
+footer {
+    background: rgba(51, 51, 51, 0.8);
+    color: white;
+    text-align: center;
+    padding: 8px 0;
+    margin-top: auto;
+    /* Футер всегда внизу */
+    position: relative;
+    animation: fadeInUp 1s ease-in-out;
+}
+
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+/* Анимации */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeInDown {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
